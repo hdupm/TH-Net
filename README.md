@@ -25,7 +25,7 @@ Find results in the ./results
 ```
 ## Training
 ```
-Python Train.py
+Python train.py
 Find checkpoint in the ./checkpoint
 
 ```
